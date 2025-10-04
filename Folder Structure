@@ -1,0 +1,9 @@
+book_bank/
+│
+├── app.py
+├── templates/
+│   ├── index.html
+│   ├── add.html
+│   └── borrow.html
+└── static/
+    └── style.css
